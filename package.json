@@ -1,0 +1,20 @@
+{
+  "name": "dore-app-rate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phodal/dore-apprate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phodal/dore-apprate/issues"
+  },
+  "homepage": "https://github.com/phodal/dore-apprate#readme"
+}
